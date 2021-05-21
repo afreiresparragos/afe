@@ -4,38 +4,70 @@ input, textarea {
 
 /*** General Body Elements ***/
 body {
-max-width: 700px;
-font-size: 18px;
-font-family: Calibri, monospace, monospace;
-/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
-color: #00FF00;
-background-color:  #000000;
+max-width: 500px;
+font-size: 20px;
+font-family: open sans, monospace, monospace;
+color: #000000;
+background-color:  #dddddd;
 }
 img {
     max-width: 100%;
     height: auto;
 }
 h1 {
+color: #528c29;
 font-size: 25px;
-color: #ff00ff;
-
-
-h2 {
-font-size: 18px;
-color: #2ee62e;
-margin: 0;
 }
 
+h2 {
+color: #528c29;
+font-size: 17px;
+}
+
+
 a {
+color: #0000ff;
 text-decoration: none;
-color:#ff8000;
 }
 
 a:hover {
-text-decoration: none;
-color:#ffffff;
+color:#228B22;
 }
 
 
+a.one:link {
+color: #606060;
+}
+a.one:hover {
+color: #005000;
+}
+a.two:link {
+color: #066106;
+}
+a.two:hover {
+color: #1cac1c;
+}
 
 
+#navigation {
+float: auto;
+clear: left;
+background-color: #c7c7c7;
+border: solid 1px #000;
+}
+ul { padding-left: 0.25em; }
+
+#navigation ul {
+list-style-type: none;	
+padding-left: 0.25em;			
+}
+
+#navigation a {
+background-color: #c7c7c7;
+display: block;
+}
+
+#navigation a:hover {
+color:#528c29;
+background-color: #c7c7c7;
+}
