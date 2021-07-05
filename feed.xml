@@ -11,6 +11,16 @@ xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 <atom:link href="http://afreiresparragos.es/feed" rel="self" type="application/rss+xml" />
 <link>http://afreiresparragos.es</link>
 <description>podcast activismo animal</description>
+<image>
+<url>
+http://afreiresparragos.es/f/00.portada.jpg
+</url>
+<title>A Freír Espárragos</title>
+<link>
+http://afreiresparragos.es
+</link>
+</image>
+<itunes:category text="Veganism"/>
 <language>es</language>
 <lastBuildDate>Mon, 05 Jul 2021 10:09:31 +0000</lastBuildDate>
 <generator>https://afreiresparragos.es</generator>
@@ -25,6 +35,8 @@ xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 Capítulo dedicado a las apestadas, en especial a las palomas. Contenido: Leemos un manifiesto dedicado a ellas (0:00:00); Hasta la soga, rap antiespecista by Uri Greene (0:20:32); Mis Amigas Las Palomas (MALP) nos cuentan sus importantes actividades y campañas (0:23:29); Juan Palomo, música absurda by A.F.E (1:19:56); Explicamos el terrible caso Torreforta sucedido en  Tarragona (1:21:02); Nuestra reportera berlinesa nos cuenta sus interacciones telefónicas con autoridades y servicios de emergencias (2:18:20) y también sus experiencias rescatando a palomas (2:26:40); Explicamos cómo limpiar excrementos de palomas y otras aves (2:35:46).
 </description>
 <enclosure url="https://archive.org/download/01.las-apestadas/01.las_apestadas.mp3" type="audio/mpeg"/>
+<itunes:image href="https://afreiresparragos.es/f/podcast/001.portada.jpg"/>
+<itunes:duration>02:41:05</itunes:duration>
 </item>
 </channel>
 </rss>
